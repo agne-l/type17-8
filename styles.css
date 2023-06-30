@@ -1,0 +1,10 @@
+th{
+    border: 1px black solid;
+    background-color: pink;
+}
+td{
+    border: 1px grey solid;
+}
+table{
+    border-collapse: collapse;
+}
